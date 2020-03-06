@@ -1,4 +1,6 @@
 ## Reporting a Vulnerability
+syncthing/.black-hole/security-project.
+Open-key/.more.strong.vng
 
 If you believe that you've found a Syncthing-related security vulnerability, please report it by sending email to the address security@syncthing.net. The PGP key for security@syncthing.net (B683AD7B76CAB013) below can be used to send encrypted mail or to verify responses received from that address.
 
